@@ -1,0 +1,25 @@
+{
+  "name": "coaes-sample-react",
+  "version": "1.0.0",
+  "description": "Coaes React App 脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokemmy/coaes-sample-react.git"
+  },
+  "keywords": [
+    "coaes",
+    "webpack",
+    "react",
+    "sample"
+  ],
+  "author": "Jokemmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jokemmy/coaes-sample-react/issues"
+  },
+  "homepage": "https://github.com/jokemmy/coaes-sample-react#readme"
+}
